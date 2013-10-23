@@ -1,4 +1,10 @@
-misc-electronics-vectors
-========================
+Electronics Vectors
+===================
 
-A collection of electronic part vector files
+---
+
+## License
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/.
+
+Copyright (c) 2011 Shota Matsuda
