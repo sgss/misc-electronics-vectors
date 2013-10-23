@@ -3,7 +3,7 @@ Electronics Vectors
 
 Currently, this repo have only Arduino Uno.
 
-![Arduino Uno](http://gyazo.com/8de6c2aeab9c04a4224858300dc335f5.png)
+![Arduino Uno](http://gyazo.com/ba34d3701ccd152153fbbbb4307f47ac.png)
 
 ---
 
