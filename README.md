@@ -1,8 +1,6 @@
 Electronics Vectors
 ===================
 
-This repo have only Arduino Uno currently.
-
 ![Arduino Uno](http://gyazo.com/ba34d3701ccd152153fbbbb4307f47ac.png)
 
 ---
